@@ -5,3 +5,5 @@ This is a change to the readme file
 updates made on main before rebase
 
 This line will now not conflict with a line on origin!
+
+Some changes to this file on Thursday
