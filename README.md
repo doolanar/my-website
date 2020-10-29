@@ -2,6 +2,4 @@
 
 This is a change to the readme file
 
-Change made on the 'example' branch
-
-Change made on the 'update -- reamde' branch
+updates made on main before rebase
